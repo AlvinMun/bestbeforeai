@@ -37,27 +37,23 @@ This is a smart food expiry tracking web application that helps users reduce foo
 
 ## Demo
 
-> *(Screenshots will be added here)*
-
-### Landing Page
-<!-- Add screenshot here -->
+### 1. Landing Page
 ![Landing Page](screenshots/landing.png)
 
-### Login Page
-<!-- Add screenshot here -->
+### 2. Login Page
 ![Login Page](screenshots/login.png)
 
-### Dashboard
-<!-- Add screenshot here -->
+### 3. Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Add Item + OCR Upload
-<!-- Add screenshot here -->
-![Add Item OCR](screenshots/add-item-ocr.png)
+### 4. Add Item + Upload
+![Add Item](screenshots/add-item.png)
 
-### Favorites View
-<!-- Add screenshot here -->
+### 5. Favorites View
 ![Favorites](screenshots/favorites.png)
+
+### 6. Profile
+![Profile](screenshots/profile.png)
 
 ---
 
