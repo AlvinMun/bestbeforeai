@@ -6,26 +6,26 @@ This is a smart food expiry tracking web application that helps users reduce foo
 
 ## Features
 
--  **User Authentication**
+- **User Authentication**
   - Register & Login with credentials
 
--  **Dashboard Overview**
+- **Dashboard Overview**
   - Total items
   - Safe items
   - Expiring soon
   - Expired items
 
--  **Item Management**
+- **Item Management**
   - Add items manually
   - Edit item details
   - Delete items
   - Mark items as **Favorites**
 
--  **Favorites**
+- **Favorites**
   - Star important items
   - Filter favorites instantly
 
--  **Search**
+- **Search**
   - Search item by name
 
 - **OCR Expiry Detection**
